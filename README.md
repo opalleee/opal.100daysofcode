@@ -1,8 +1,5 @@
 
 
-
-<img src="./Downloades/AppBreweryWallpaper 7.png](file:///Users/opal/Downloads/Wallpapers/png%20wallpapers/AppBreweryWallpaper%207.png)" alt="Logo of the project" align="right">
-
 # 100 Days of Code &middot;[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > 
 
