@@ -1,3 +1,6 @@
-#100daysofcode
+100 Days of Code
 
-cr.https://www.udemy.com/course/100-days-of-code/
+About this project
+
+course: https://www.udemy.com/course/100-days-of-code/
+instructor: Angela YU
